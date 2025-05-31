@@ -12,9 +12,6 @@
     list-style: none;
   }
   
-  .links__list-item_no-bullit {
-    list-style: none;
-  }
   
   .header__links-list-item {
     list-style: circle;
@@ -67,7 +64,7 @@
     z-index: -1;
   }
   
-  .cover__tittle {
+  .cover__title {
     letter-spacing: 30px;
     display: flex;
     flex-direction: column;
