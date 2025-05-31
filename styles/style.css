@@ -36,11 +36,13 @@
 
 .contacts {
   font-style: normal;
+  font-size: 18px;
 }
 
 .justify-self-end {
   width: 240px;
   justify-self: end;
+  line-height: 24.3px;
 }
 
 .cover {
@@ -224,6 +226,7 @@
   padding-right: 24px;
   font-size: 20px;
   line-height: 24px;
+  letter-spacing: 0%;
 }
 
 .about__text p:first-child {
@@ -235,6 +238,7 @@
   grid-template-columns: 1fr 1fr 1fr;
   justify-items: center;
   padding: 0 50px 92px;
+  font-size: 18px;
 }
 
 .footer_contacts {
