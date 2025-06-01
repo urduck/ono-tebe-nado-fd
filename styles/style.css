@@ -54,7 +54,6 @@
   z-index: 0;
 }
 
-/* Общие стили для всех оверлеев */
 .overlay {
   position: absolute;
   top: 0;
@@ -65,7 +64,6 @@
   opacity: 0.6;
 }
 
-/* Оверлей для cover */
 .cover .overlay {
   z-index: -1;
 }
@@ -149,7 +147,6 @@
   background-position: center;
 }
 
-/* Оверлей для карточек */
 .lots__card-list-item .overlay {
   z-index: 1;
 }
